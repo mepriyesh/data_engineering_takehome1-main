@@ -1,0 +1,131 @@
+Job Category,min_salary,max_salary,avg_salary
+"Administration & Human Resources Finance, Accounting, & Procurement Building Operations & Maintenance",218587.0,218587.0,218587.0
+"Engineering, Architecture, & Planning Maintenance & Operations",198518.0,198518.0,198518.0
+"Engineering, Architecture, & Planning Finance, Accounting, & Procurement Building Operations & Maintenance Public Safety, Inspections, & Enforcement",182500.0,209585.0,196042.5
+"Health Policy, Research & Analysis Public Safety, Inspections, & Enforcement",94889.0,162500.0,128694.5
+"Engineering, Architecture, & Planning Policy, Research & Analysis Public Safety, Inspections, & Enforcement",128247.5,128247.5,128247.5
+"Engineering, Architecture, & Planning Technology, Data & Innovation Public Safety, Inspections, & Enforcement",128247.5,128247.5,128247.5
+"Communications & Intergovernmental Affairs Engineering, Architecture, & Planning Technology, Data & Innovation Policy, Research & Analysis",125000.0,125000.0,125000.0
+"Administration & Human Resources Finance, Accounting, & Procurement Technology, Data & Innovation Building Operations & Maintenance Policy, Research & Analysis Public Safety, Inspections, & Enforcement",118287.0,118287.0,118287.0
+"Constituent Services & Community Programs Communications & Intergovernmental Affairs Policy, Research & Analysis",58500.0,217201.0,116900.33
+Constituent Services & Community Programs Communications & Intergovernmental Affairs Social Services,103680.5,103680.5,103680.5
+"Technology, Data & Innovation Social Services",39119.0,112527.5,96373.45
+"Administration & Human Resources Communications & Intergovernmental Affairs Engineering, Architecture, & Planning Policy, Research & Analysis",95000.0,95000.0,95000.0
+"Administration & Human Resources Finance, Accounting, & Procurement Policy, Research & Analysis",92500.0,92500.0,92500.0
+"Administration & Human Resources Policy, Research & Analysis",54402.0,180000.0,91497.58
+"Administration & Human Resources Finance, Accounting, & Procurement",53429.5,177374.5,91174.22
+Administration & Human Resources Constituent Services & Community Programs,55000.0,100000.0,91000.0
+Administration & Human Resources Constituent Services & Community Programs Legal Affairs,90000.0,90000.0,90000.0
+"Engineering, Architecture, & Planning Policy, Research & Analysis",55075.0,134866.5,89857.44
+"Engineering, Architecture, & Planning Public Safety, Inspections, & Enforcement",51483.0,124970.0,89730.0
+"Legal Affairs Policy, Research & Analysis Public Safety, Inspections, & Enforcement",59705.5,115732.0,88898.67
+"Engineering, Architecture, & Planning Technology, Data & Innovation",51572.0,134866.5,88213.69
+"Technology, Data & Innovation Policy, Research & Analysis",40895.0,125000.0,88112.55
+"Technology, Data & Innovation",15.85,169011.0,88066.27
+Information Technology & Telecommunications,53772.0,112148.5,87476.55
+"Finance, Accounting, & Procurement Legal Affairs Policy, Research & Analysis",58573.5,114379.0,87222.8
+"Health Technology, Data & Innovation",75000.0,105500.0,86833.33
+"Administration & Human Resources Communications & Intergovernmental Affairs Legal Affairs Policy, Research & Analysis",85591.5,85591.5,85591.5
+"Engineering, Architecture, & Planning",45.49,151795.0,84531.02
+"Administration & Human Resources Engineering, Architecture, & Planning Policy, Research & Analysis",68057.0,100000.0,84028.5
+"Legal Affairs Public Safety, Inspections, & Enforcement",75000.0,95000.0,83356.0
+"Finance, Accounting, & Procurement Legal Affairs",49920.5,113961.5,83252.25
+Legal Affairs,21.41,191913.0,83247.09
+"Administration & Human Resources Public Safety, Inspections, & Enforcement",36266.5,165000.0,82631.88
+Constituent Services & Community Programs Communications & Intergovernmental Affairs,69040.5,90000.0,82260.13
+"Administration & Human Resources Communications & Intergovernmental Affairs Health Public Safety, Inspections, & Enforcement",82141.0,82141.0,82141.0
+"Constituent Services & Community Programs Engineering, Architecture, & Planning",67029.5,89349.0,81909.17
+"Legal Affairs Policy, Research & Analysis",34816.5,114468.0,81235.6
+"Health Policy, Research & Analysis",65385.5,110511.5,80558.93
+"Communications & Intergovernmental Affairs Policy, Research & Analysis Public Safety, Inspections, & Enforcement",80000.0,80000.0,80000.0
+"Engineering, Architecture, & Planning Technology, Data & Innovation Policy, Research & Analysis",80000.0,80000.0,80000.0
+"Policy, Research & Analysis Social Services",70661.0,87717.5,79329.8
+Clerical & Administrative Support Policy & Analysis,77482.0,77482.0,77482.0
+Information Technology & Telecommunications Policy & Analysis Social Services,76941.5,76941.5,76941.5
+Constituent Services & Community Programs Health Social Services,76670.0,76670.0,76670.0
+"Engineering, Architecture, & Planning Finance, Accounting, & Procurement",51543.0,122966.5,76473.11
+"Communications & Intergovernmental Affairs Policy, Research & Analysis",58500.0,86000.5,75904.5
+Health Social Services,75150.0,75150.0,75150.0
+"Communications & Intergovernmental Affairs Technology, Data & Innovation",75000.0,75000.0,75000.0
+Policy & Analysis Social Services,74528.5,74528.5,74528.5
+"Finance, Accounting, & Procurement",17.7,167500.0,73795.1
+"Administration & Human Resources Constituent Services & Community Programs Policy, Research & Analysis Social Services",15.5,110000.0,73338.5
+"Finance, Accounting, & Procurement Policy, Research & Analysis Public Safety, Inspections, & Enforcement",72811.5,72811.5,72811.5
+Legal Policy & Analysis,72016.0,72016.0,72016.0
+Communications & Intergovernmental Affairs,16.5,140659.0,71748.33
+"Constituent Services & Community Programs Engineering, Architecture, & Planning Public Safety, Inspections, & Enforcement",71362.0,71362.0,71362.0
+"Finance, Accounting, & Procurement Policy, Research & Analysis",50890.0,117810.0,70729.41
+"Administration & Human Resources Technology, Data & Innovation Building Operations & Maintenance",70661.0,70661.0,70661.0
+"Administration & Human Resources Technology, Data & Innovation Policy, Research & Analysis Public Safety, Inspections, & Enforcement",70661.0,70661.0,70661.0
+Health Legal Affairs,68609.12,71875.5,70242.31
+"Communications & Intergovernmental Affairs Finance, Accounting, & Procurement",69040.5,69040.5,69040.5
+"Administration & Human Resources Building Operations & Maintenance Policy, Research & Analysis",69040.5,69040.5,69040.5
+Legal Affairs Social Services,67448.5,67448.5,67448.5
+Social Services,29.15,99521.0,67074.53
+"Policy, Research & Analysis Public Safety, Inspections, & Enforcement",48755.5,90981.0,66492.12
+"Finance, Accounting, & Procurement Health",65400.0,65400.0,65400.0
+"Health Building Operations & Maintenance Public Safety, Inspections, & Enforcement",65093.5,65093.5,65093.5
+"Policy, Research & Analysis",15.7,162051.0,63577.71
+"Engineering, Architecture, & Planning Building Operations & Maintenance Public Safety, Inspections, & Enforcement",539.12,103050.0,63349.78
+"Finance, Accounting, & Procurement Public Safety, Inspections, & Enforcement",63024.5,63024.5,63024.5
+"Administration & Human Resources Technology, Data & Innovation Policy, Research & Analysis",62946.5,62946.5,62946.5
+Clerical & Administrative Support Community & Business Services,62686.5,62686.5,62686.5
+"Administration & Human Resources Constituent Services & Community Programs Finance, Accounting, & Procurement Social Services",62513.5,62513.5,62513.5
+Community & Business Services Social Services,62397.5,62397.5,62397.5
+"Public Safety, Inspections, & Enforcement",15.45,140659.0,62160.96
+"Finance, Accounting, & Procurement Technology, Data & Innovation",57539.0,64452.0,62147.67
+"Constituent Services & Community Programs Policy, Research & Analysis Social Services",56463.5,67029.5,61939.25
+Administration & Human Resources Health,54402.0,69040.5,61721.25
+"Constituent Services & Community Programs Finance, Accounting, & Procurement Technology, Data & Innovation Policy, Research & Analysis",61500.0,61500.0,61500.0
+"Constituent Services & Community Programs Public Safety, Inspections, & Enforcement",49920.5,67029.5,61492.94
+Administration & Human Resources Building Operations & Maintenance,37979.5,94970.0,61430.71
+"Policy, Research & Analysis Public Safety, Inspections, & Enforcement Social Services",61345.0,61345.0,61345.0
+"Technology, Data & Innovation Building Operations & Maintenance",61109.5,61109.5,61109.5
+"Finance, Accounting, & Procurement Policy & Analysis",60692.5,60692.5,60692.5
+"Constituent Services & Community Programs Policy, Research & Analysis",15.7,91965.5,58803.63
+"Constituent Services & Community Programs Policy, Research & Analysis Public Safety, Inspections, & Enforcement",58762.0,58762.0,58762.0
+Constituent Services & Community Programs Building Operations & Maintenance,58736.0,58736.0,58736.0
+"Finance, Accounting, & Procurement Social Services",58736.0,58736.0,58736.0
+"Administration & Human Resources Public Safety, Inspections, & Enforcement Social Services",58735.0,58735.0,58735.0
+"Engineering, Architecture, & Planning Building Operations & Maintenance",486.72,97717.5,58523.99
+Health,16.28,170133.84,58466.32
+Constituent Services & Community Programs,17.7,135000.0,57877.58
+Community & Business Services,46352.0,67500.0,57699.33
+"Public Safety, Inspections, & Enforcement Social Services",49399.5,67021.0,57538.0
+"Communications & Intergovernmental Affairs Finance, Accounting, & Procurement Policy, Research & Analysis",56867.5,56867.5,56867.5
+"Health Public Safety, Inspections, & Enforcement",16.08,85971.5,56048.44
+"Finance, Accounting, & Procurement Technology, Data & Innovation Policy, Research & Analysis",55421.5,55421.5,55421.5
+Constituent Services & Community Programs Social Services,30.91,86515.5,55007.23
+"Administration & Human Resources Legal Affairs Policy, Research & Analysis",50000.0,60000.0,55000.0
+"Technology, Data & Innovation Legal Affairs",47915.5,69506.5,54792.88
+Administration & Human Resources,16.4,132205.0,53755.85
+"Building Operations & Maintenance Public Safety, Inspections, & Enforcement",48.95,80526.5,53077.33
+"Administration & Human Resources Finance, Accounting, & Procurement Building Operations & Maintenance Policy, Research & Analysis",53075.5,53075.5,53075.5
+"Communications & Intergovernmental Affairs Legal Affairs Policy, Research & Analysis Public Safety, Inspections, & Enforcement",51454.0,51454.0,51454.0
+Constituent Services & Community Programs Legal Affairs,50313.5,50313.5,50313.5
+"Administration & Human Resources Constituent Services & Community Programs Communications & Intergovernmental Affairs Public Safety, Inspections, & Enforcement",49576.5,49576.5,49576.5
+"Administration & Human Resources Health Technology, Data & Innovation",49409.46,49409.46,49409.46
+Clerical & Administrative Support Legal,45694.5,50333.0,48345.63
+"Finance, Accounting, & Procurement Information Technology & Telecommunications",48146.0,48146.0,48146.0
+Administration & Human Resources Communications & Intergovernmental Affairs,47864.5,47864.5,47864.5
+Administration & Human Resources Legal Affairs,17.7,86419.5,46386.26
+"Administration & Human Resources Constituent Services & Community Programs Policy, Research & Analysis",44377.0,44377.0,44377.0
+"Administration & Human Resources Health Public Safety, Inspections, & Enforcement",44377.0,44377.0,44377.0
+"Administration & Human Resources Legal Affairs Public Safety, Inspections, & Enforcement",43295.5,43295.5,43295.5
+Maintenance & Operations,35.0,65458.8,42995.45
+"Administration & Human Resources Policy, Research & Analysis Public Safety, Inspections, & Enforcement",41338.5,41338.5,41338.5
+Health Building Operations & Maintenance,38447.5,38447.5,38447.5
+Legal,37854.0,37854.0,37854.0
+Building Operations & Maintenance,17.7,169011.0,37597.4
+Clerical & Administrative Support,9.56,52817.5,36432.24
+Communications & Intergovernmental Affairs Building Operations & Maintenance Social Services,36267.5,36267.5,36267.5
+"Administration & Human Resources Technology, Data & Innovation",22.56,62063.5,35677.02
+"Administration & Human Resources Communications & Intergovernmental Affairs Public Safety, Inspections, & Enforcement",33941.0,33941.0,33941.0
+Administration & Human Resources Social Services,30.02,53094.0,31086.09
+"Constituent Services & Community Programs Finance, Accounting, & Procurement Policy, Research & Analysis Social Services",58.74,58.74,58.74
+"Engineering, Architecture, & Planning Finance, Accounting, & Procurement Policy, Research & Analysis",17.7,17.7,17.7
+"Administration & Human Resources Constituent Services & Community Programs Communications & Intergovernmental Affairs Finance, Accounting, & Procurement Legal Affairs Policy, Research & Analysis",17.7,17.7,17.7
+"Communications & Intergovernmental Affairs Public Safety, Inspections, & Enforcement",16.74,16.74,16.74
+"Constituent Services & Community Programs Technology, Data & Innovation Policy, Research & Analysis Social Services",15.5,15.5,15.5
+"Constituent Services & Community Programs Technology, Data & Innovation Public Safety, Inspections, & Enforcement Social Services",15.5,15.5,15.5
+Administration & Human Resources Constituent Services & Community Programs Social Services,15.5,15.5,15.5
